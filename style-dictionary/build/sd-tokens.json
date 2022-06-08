@@ -1,0 +1,12 @@
+{
+  "large": {
+    "value": 20,
+    "type": "borderRadius",
+    "rawValue": "20"
+  },
+  "pinkred": {
+    "value": "#f00",
+    "type": "color",
+    "rawValue": "#f00"
+  }
+}
