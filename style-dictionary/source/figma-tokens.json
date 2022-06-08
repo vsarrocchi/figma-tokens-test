@@ -1,23 +1,8 @@
 {
   "global": {
-    "large": {
-      "value": "20",
-      "type": "borderRadius"
-    },
-    "pinkred": {
+    "red": {
       "value": "#f00",
       "type": "color"
-    },
-    "shadowtest": {
-      "value": {
-        "x": "10",
-        "y": "10",
-        "blur": "10",
-        "spread": "10",
-        "color": "#000000",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
     }
   },
   "$themes": []
