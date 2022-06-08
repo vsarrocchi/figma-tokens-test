@@ -1,4 +1,13 @@
 {
-  "global": {},
+  "global": {
+    "large": {
+      "value": "20",
+      "type": "borderRadius"
+    },
+    "pinkred": {
+      "value": "#f00",
+      "type": "color"
+    }
+  },
   "$themes": []
 }
