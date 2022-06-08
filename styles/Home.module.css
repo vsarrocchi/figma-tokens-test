@@ -1,3 +1,7 @@
+.button {
+  background-color: var(--token_red);
+}
+
 .container {
   padding: 0 2rem;
 }

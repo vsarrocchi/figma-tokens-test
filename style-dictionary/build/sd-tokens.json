@@ -1,38 +1,7 @@
 {
-  "large": {
-    "value": 20,
-    "type": "borderRadius",
-    "rawValue": "20"
-  },
-  "pinkred": {
+  "red": {
     "value": "#f00",
     "type": "color",
     "rawValue": "#f00"
-  },
-  "shadowtest": {
-    "x": {
-      "value": 10,
-      "type": "x"
-    },
-    "y": {
-      "value": 10,
-      "type": "y"
-    },
-    "blur": {
-      "value": 10,
-      "type": "blur"
-    },
-    "spread": {
-      "value": 10,
-      "type": "spread"
-    },
-    "color": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "type": {
-      "value": "dropShadow",
-      "type": "type"
-    }
   }
 }
